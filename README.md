@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 | Organization | Date 	| Role |
 |:-----:	|:----------:	|:-----------:|
 | BoostcampAI, Naver Connect | `2023.03.09.` ~  | -  |
-| DELAB, Yonsei Univ | `2022.06.09.` ~  `2023.02.28.` | Research Intern  |
+| DELAB, Yonsei Univ | `2021.02.` ~  `2022.08.` | Research Intern  |
 | Statistics Korea | `2019.04.09.` ~  `2019.12.` | Volunterring Activity |
 
 
