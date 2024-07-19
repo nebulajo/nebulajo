@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 | Organization | Date 	| Role |
 |:-----:	|:----------:	|:-----------:|
+| VoyagerX | `2023.09.18.` ~  | 2024.03.27.  |
 | BoostcampAI, Naver Connect | `2023.03.09.` ~  | -  |
 | DELAB, Yonsei Univ | `2021.02.` ~  `2022.08.` | Research Intern  |
 | Statistics Korea | `2019.04.09.` ~  `2019.12.` | Volunterring Activity |
