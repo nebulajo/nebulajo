@@ -24,22 +24,3 @@ Here are some ideas to get you started:
 | Statistics Korea | `2019.04.09.` ~  `2019.12.` | Volunterring Activity |
 
 
-### Project
-
-| Title | Date  | Organization | Paper |
-|:-----:	|:----------:	|:-----------:| :-----------:|
-| Detection of Cervical Foraminal Stenosis Using Deep Learning Algorithm | `2022.09` ~ `2022.12` 	| [Machine Learning Lab, Dongguk Univ](https://www.ml.dongguk.edu/) | 
-| [A Study Anomaly Detection Using Transfer Learning based 3D ResNet](https://github.com/nebulajo/TransferLearning_3DResNet) | `2022.09` ~ `2022.12` 	| Dongguk Univ | [paper](https://c11.kr/19ef6)
-| [Action Recognition using Attention Stream based on ViT ](https://github.com/nebulajo/action_recognition_i3d_vit) | `2022.02` ~ `2022.06` 	| [DELAB, Yonsei Univ](http://delab.yonsei.ac.kr/) | [paper](https://c11.kr/19e4t)
-| [CartoonFaceGAN: A Study on Cartoon Face Generation Using Layer Swap, Distillation based StyleGAN2-ADA ](https://github.com/nebulajo/cartoonfacegan/tree/main) | `2022.04` ~ `2022.06` 	| - | [paper](https://c11.kr/19ef4)
-| [A Study on Parameter Tuning for Redis via Parameter Classification and Phased Bayesian Optimization ](https://github.com/nebulajo/DB_tuning_machinelearning) | `2021.07` ~ `2022.11` 	| [DELAB, Yonsei Univ](http://delab.yonsei.ac.kr/) | [paper](https://c11.kr/19e4j)
-
-
-### Awards
-| Date | Contents 	| Organization |
-|:-----:	|:----------:	|:-----------:|
-| `2023.01.` 	| Participation Prize | [KIISE Korea Software Congress 2022 (KSC2022)](https://www.kiise.or.kr/academy/main/main.fa)  |
-| `2022.06.` 	| Excellence Prize | [KIISE Korea Computer Congress 2022 (KCC2022)](https://www.kiise.or.kr/academy/main/main.fa)  |
-| `2021.11.` 	| Gold Prize | [Annual Converence of KIPS 2021 (ACK2021)](https://www.manuscriptlink.com/society/kips/conference/ack2021)  |
-
-
